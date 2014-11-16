@@ -1,4 +1,4 @@
 OC-test
 =======
 
-Repository de test :)
+*Repository pour tester GitHub et Source Tree :)*
